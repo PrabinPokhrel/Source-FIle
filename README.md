@@ -1,4 +1,4 @@
-# Thesis: Topic Modeling of Sustainable Development Goal (SDG) Research in Nepal (2015–2025)
+# Thesis: Topic Modeling of Sustainable Development Goal (SDG) Research in Nepal (2015–2024)
 
 This repository contains all the source code, outputs, and documentation related to the thesis:  
 **"Analyzing Trends in SDG Research in Nepal Using Topic Modeling (2015–2024)"**
