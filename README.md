@@ -1,6 +1,7 @@
 # Thesis: Topic Modeling of Sustainable Development Goal (SDG) Research in Nepal (2015–2024)
 
 This repository contains all the source code, outputs, and documentation related to the thesis:  
+
 **"Analyzing Trends in SDG Research in Nepal Using Topic Modeling (2015–2024)"**
 
 The study applies LDA and BERTopic to extract thematic patterns from research article metadata aligned with the 17 Sustainable Development Goals (SDGs).
@@ -19,6 +20,7 @@ The study applies LDA and BERTopic to extract thematic patterns from research ar
 ## 🧠 Methodology Summary
 
 **Preprocessing**: Title + Abstracts of research articles were cleaned, normalized, and embedded.
+
 **Model**: BERTopic with default settings (UMAP + HDBSCAN + TF-IDF).
 
 **Clustering**: Extracted and summarized over 200 latent topics.
