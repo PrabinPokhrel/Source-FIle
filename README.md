@@ -34,4 +34,5 @@ The study applies LDA and BERTopic to extract thematic patterns from research ar
 This project runs on Python 3.8+ and requires the following packages:
 
 bash
+
 pip install bertopic pandas scikit-learn umap-learn hdbscan
